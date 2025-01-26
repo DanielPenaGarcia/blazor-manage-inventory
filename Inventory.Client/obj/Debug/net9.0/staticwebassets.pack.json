@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Inventory.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Inventory.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Inventory.Client.props",
+      "PackagePath": "build\\Inventory.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Inventory.Client.props",
+      "PackagePath": "buildMultiTargeting\\Inventory.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Inventory.Client.props",
+      "PackagePath": "buildTransitive\\Inventory.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json

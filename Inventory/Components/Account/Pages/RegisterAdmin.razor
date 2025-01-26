@@ -1,0 +1,146 @@
+﻿@page "/Account/Register/Admin"
+
+@using System.ComponentModel.DataAnnotations
+@using System.Text
+@using System.Text.Encodings.Web
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.WebUtilities
+@using Inventory.Data
+@using Inventory.Utils
+
+@inject UserManager<ApplicationUser> UserManager
+@inject IUserStore<ApplicationUser> UserStore
+@inject SignInManager<ApplicationUser> SignInManager
+@inject IEmailSender<ApplicationUser> EmailSender
+@inject ILogger<Register> Logger
+@inject NavigationManager NavigationManager
+@inject IdentityRedirectManager RedirectManager
+@inject RoleManager<IdentityRole> RoleManager
+
+<h3>RegisterAdmin</h3>
+
+@if(@Code is not null) {
+
+} else {
+    <div class="row">
+        <div class="col-lg-6">
+            <StatusMessage Message="@Message" />
+            <EditForm Model="Model" method="post" OnValidSubmit="Register" FormName="register">
+                <DataAnnotationsValidator />
+                <h2>Create a new account.</h2>
+                <hr />
+                <ValidationSummary class="text-danger" role="alert" />
+                <div class="form-floating mb-3">
+                    <InputText @bind-Value="Model.Email" id="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <label for="Input.Email">Email</label>
+                    <ValidationMessage For="() => Model.Email" class="text-danger" />
+                </div>
+                <div class="form-floating mb-3">
+                    <InputText type="password" @bind-Value="Model.Password" id="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <label for="Input.Password">Password</label>
+                    <ValidationMessage For="() => Model.Password" class="text-danger" />
+                </div>
+                <div class="form-floating mb-3">
+                    <InputText type="password" @bind-Value="Model.ConfirmPassword" id="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <label for="Input.ConfirmPassword">Confirm Password</label>
+                    <ValidationMessage For="() => Model.ConfirmPassword" class="text-danger" />
+                </div>
+                <button type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+            </EditForm>
+        </div>
+        <div class="col-lg-4 col-lg-offset-2">
+            <section>
+                <h3>Use another service to register.</h3>
+                <hr />
+                <ExternalLoginPicker />
+            </section>
+        </div>
+    </div>
+}
+
+
+@code {
+    private IEnumerable<IdentityError>? identityErrors;
+
+    [SupplyParameterFromQuery]
+    public string? Code { get; set; }
+
+    [SupplyParameterFromForm]
+    private InputModel Model { get; set; }
+
+    private string? Message => identityErrors is null ? null : $"Error: {string.Join(", ", identityErrors.Select(error => error.Description))}";
+
+    private async Task Register(EditContext editContext) {
+        ApplicationUser user = CreateUser();
+        await UserStore.SetUserNameAsync(user, Model.Email, CancellationToken.None);
+        var email = GetEmailStore();
+        await email.SetEmailAsync(user, Model.Email, CancellationToken.None);
+        var result = await UserManager.CreateAsync(user, Model.Password);
+        if (!result.Succeeded)
+        {
+            identityErrors = result.Errors;
+            return;
+        }
+        Logger.LogInformation("User created a new account with password.");
+        if (!await RoleManager.RoleExistsAsync(Role.ADMIN))
+        {
+            await RoleManager.CreateAsync(new IdentityRole(Role.ADMIN));
+        }
+
+        await UserManager.AddToRoleAsync(user, Role.ADMIN);
+
+        var userId = await UserManager.GetUserIdAsync(user);
+        var code = await UserManager.GenerateEmailConfirmationTokenAsync(user);
+        code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
+
+        if (UserManager.Options.SignIn.RequireConfirmedAccount)
+        {
+            RedirectManager.RedirectTo(
+                "Account/RegisterConfirmation",
+                new() { ["email"] = Model.Email });
+        }
+
+        await SignInManager.SignInAsync(user, isPersistent: false);
+    }
+
+    private ApplicationUser CreateUser()
+    {
+        try
+        {
+            return Activator.CreateInstance<ApplicationUser>();
+        }
+        catch
+        {
+            throw new InvalidOperationException($"Can't create an instance of '{nameof(ApplicationUser)}'. " +
+                $"Ensure that '{nameof(ApplicationUser)}' is not an abstract class and has a parameterless constructor.");
+        }
+    }
+
+    private IUserEmailStore<ApplicationUser> GetEmailStore()
+    {
+        if (!UserManager.SupportsUserEmail)
+        {
+            throw new NotSupportedException("The default UI requires a user store with email support.");
+        }
+        return (IUserEmailStore<ApplicationUser>)UserStore;
+    }
+
+    private sealed class InputModel
+    {
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email")]
+        public string Email { get; set; } = "";
+
+        [Required]
+        [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+        [DataType(DataType.Password)]
+        [Display(Name = "Password")]
+        public string Password { get; set; } = "";
+
+        [DataType(DataType.Password)]
+        [Display(Name = "Confirm password")]
+        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        public string ConfirmPassword { get; set; } = "";
+    }
+}
