@@ -1054,8 +1054,6 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.2fig4k0h4p.pdb
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.2v2smjopqb.wasm
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.vum2aqzk55.wasm
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.9at76jd5um.wasm
@@ -1325,7 +1323,6 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.Primitives.ppkhii4grn.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Linq.Parallel.rt0wj1di9x.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.09wnmnw7h6.wasm.gz
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.2fig4k0h4p.pdb.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.ra9xq384hx.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Writer.4ao90ee7f8.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.ServiceProcess.4n5pile68t.wasm.gz
@@ -1379,7 +1376,6 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Data.8fnvbemkr6.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.InteropServices.k720ljpkms.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Security.AccessControl.lsn0iceylj.wasm.gz
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.2v2smjopqb.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.ykcj58k0je.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Primitives.sio8tbcv7y.wasm.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.CSharp.0krj4ve566.wasm.gz
@@ -2071,9 +2067,6 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\0e7dgv0lx2-tjcz0u77k5.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\g2bg671ohz-tptq2av103.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\i8qekgwwu0-lfu7j35m59.gz
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\n7hnkp5flx-2v2smjopqb.gz
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\damkf6wasa-2fig4k0h4p.gz
-C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\120eum2ipn-ktohyrlli0.gz
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -2089,3 +2082,10 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\refint\Inventory.Client.dll
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\Inventory.Client.pdb
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\ref\Inventory.Client.dll
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.i3yzd0ubpc.pdb
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.gfqdgrtdno.wasm
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.i3yzd0ubpc.pdb.gz
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\bin\Debug\net9.0\wwwroot\_framework\Inventory.Client.gfqdgrtdno.wasm.gz
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\n7hnkp5flx-gfqdgrtdno.gz
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\damkf6wasa-i3yzd0ubpc.gz
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\compressed\120eum2ipn-wwboqn4q7q.gz

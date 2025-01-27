@@ -22,3 +22,9 @@ C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\obj\Debug\net9.0\staticwebassets.build.json

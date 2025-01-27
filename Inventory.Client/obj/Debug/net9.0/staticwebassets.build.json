@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "00XC85xFYvT+4hi/G27c3uIdMjbfzFhLR0RNzgLWk5Q=",
+  "Hash": "AGcm9KE1jCwbvo63IF9xlLKe3BGCOxs6GeOghFgDrUA=",
   "Source": "Inventory.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ktohyrlli0",
-      "Integrity": "GCrTFZANW0Hh08JDt/xm/Ca7XRy6w7LAoacRqEQOtsw=",
+      "Fingerprint": "wwboqn4q7q",
+      "Integrity": "sNexGn4aFkbcM3FAHplC+uMUHc+Ag2XpNqFkQrN/Txg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "2fig4k0h4p",
-      "Integrity": "wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo=",
+      "Fingerprint": "i3yzd0ubpc",
+      "Integrity": "XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Inventory.Client.pdb"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "2v2smjopqb",
-      "Integrity": "fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA=",
+      "Fingerprint": "gfqdgrtdno",
+      "Integrity": "9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\webcil\\Inventory.Client.wasm"
@@ -4553,7 +4553,7 @@
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.AppContext.wasm"
     },
     {
-      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-ktohyrlli0.gz",
+      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-wwboqn4q7q.gz",
       "SourceId": "Inventory.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -4567,8 +4567,8 @@
       "RelatedAsset": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k9votoponk",
-      "Integrity": "uB7Cbe4+1y+3sFhFwI1zGApzerHI4DCzgJgIQzWFWXI=",
+      "Fingerprint": "hvjyt7p2w9",
+      "Integrity": "HWIj030Aunwx0ssj3DEMUea949sFHDO/91S8/iSGDdI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5981,12 +5981,12 @@
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Resources.Reader.wasm"
     },
     {
-      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-2fig4k0h4p.gz",
+      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-i3yzd0ubpc.gz",
       "SourceId": "Inventory.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Inventory.Client#[.{fingerprint=2fig4k0h4p}]!.pdb.gz",
+      "RelativePath": "_framework/Inventory.Client#[.{fingerprint=i3yzd0ubpc}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5995,8 +5995,8 @@
       "RelatedAsset": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9ehaniuc8u",
-      "Integrity": "kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo=",
+      "Fingerprint": "m2j8pj7hje",
+      "Integrity": "cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.pdb"
@@ -7157,12 +7157,12 @@
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-2v2smjopqb.gz",
+      "Identity": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-gfqdgrtdno.gz",
       "SourceId": "Inventory.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Inventory.Client#[.{fingerprint=2v2smjopqb}]!.wasm.gz",
+      "RelativePath": "_framework/Inventory.Client#[.{fingerprint=gfqdgrtdno}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7171,8 +7171,8 @@
       "RelatedAsset": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vn9xs9b6v8",
-      "Integrity": "1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A=",
+      "Fingerprint": "xjh4tif02m",
+      "Integrity": "3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.wasm"
@@ -8952,7 +8952,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GCrTFZANW0Hh08JDt/xm/Ca7XRy6w7LAoacRqEQOtsw=\""
+          "Value": "\"sNexGn4aFkbcM3FAHplC+uMUHc+Ag2XpNqFkQrN/Txg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sNexGn4aFkbcM3FAHplC+uMUHc+Ag2XpNqFkQrN/Txg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-wwboqn4q7q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080019205"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12496"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWIj030Aunwx0ssj3DEMUea949sFHDO/91S8/iSGDdI=\""
         },
         {
           "Name": "Last-Modified",
@@ -8961,45 +9000,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GCrTFZANW0Hh08JDt/xm/Ca7XRy6w7LAoacRqEQOtsw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-ktohyrlli0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000080006401"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12498"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uB7Cbe4+1y+3sFhFwI1zGApzerHI4DCzgJgIQzWFWXI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:21:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9015,19 +9015,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GCrTFZANW0Hh08JDt/xm/Ca7XRy6w7LAoacRqEQOtsw=\""
+          "Value": "W/\"sNexGn4aFkbcM3FAHplC+uMUHc+Ag2XpNqFkQrN/Txg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GCrTFZANW0Hh08JDt/xm/Ca7XRy6w7LAoacRqEQOtsw="
+          "Value": "sha256-sNexGn4aFkbcM3FAHplC+uMUHc+Ag2XpNqFkQrN/Txg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-ktohyrlli0.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\120eum2ipn-wwboqn4q7q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9036,7 +9036,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12498"
+          "Value": "12496"
         },
         {
           "Name": "Content-Type",
@@ -9044,11 +9044,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uB7Cbe4+1y+3sFhFwI1zGApzerHI4DCzgJgIQzWFWXI=\""
+          "Value": "\"HWIj030Aunwx0ssj3DEMUea949sFHDO/91S8/iSGDdI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:21:25 GMT"
+          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9066,7 +9066,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uB7Cbe4+1y+3sFhFwI1zGApzerHI4DCzgJgIQzWFWXI="
+          "Value": "sha256-HWIj030Aunwx0ssj3DEMUea949sFHDO/91S8/iSGDdI="
         }
       ]
     },
@@ -11890,168 +11890,7 @@
       ]
     },
     {
-      "Route": "_framework/Inventory.Client.2fig4k0h4p.pdb",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18328"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2fig4k0h4p"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Inventory.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Inventory.Client.2fig4k0h4p.pdb",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-2fig4k0h4p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000082413054"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12133"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2fig4k0h4p"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Inventory.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Inventory.Client.2fig4k0h4p.pdb.gz",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-2fig4k0h4p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2fig4k0h4p"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Inventory.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Inventory.Client.2v2smjopqb.wasm",
+      "Route": "_framework/Inventory.Client.gfqdgrtdno.wasm",
       "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12069,11 +11908,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA=\""
+          "Value": "\"9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:43 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12083,7 +11922,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2v2smjopqb"
+          "Value": "gfqdgrtdno"
         },
         {
           "Name": "label",
@@ -12091,18 +11930,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA="
+          "Value": "sha256-9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk="
         }
       ]
     },
     {
-      "Route": "_framework/Inventory.Client.2v2smjopqb.wasm",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-2v2smjopqb.gz",
+      "Route": "_framework/Inventory.Client.gfqdgrtdno.wasm",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-gfqdgrtdno.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000208203206"
+          "Quality": "0.000208116545"
         }
       ],
       "ResponseHeaders": [
@@ -12112,15 +11951,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4804"
         },
         {
           "Name": "ETag",
-          "Value": "\"1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A=\""
+          "Value": "\"3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12140,13 +11979,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA=\""
+          "Value": "W/\"9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2v2smjopqb"
+          "Value": "gfqdgrtdno"
         },
         {
           "Name": "label",
@@ -12154,13 +11993,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA="
+          "Value": "sha256-9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk="
         }
       ]
     },
     {
-      "Route": "_framework/Inventory.Client.2v2smjopqb.wasm.gz",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-2v2smjopqb.gz",
+      "Route": "_framework/Inventory.Client.gfqdgrtdno.wasm.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-gfqdgrtdno.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12169,7 +12008,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4804"
         },
         {
           "Name": "Content-Type",
@@ -12177,11 +12016,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A=\""
+          "Value": "\"3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12199,7 +12038,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2v2smjopqb"
+          "Value": "gfqdgrtdno"
         },
         {
           "Name": "label",
@@ -12207,7 +12046,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A="
+          "Value": "sha256-3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Inventory.Client.i3yzd0ubpc.pdb",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Inventory.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3yzd0ubpc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Inventory.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Inventory.Client.i3yzd0ubpc.pdb",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-i3yzd0ubpc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000082406263"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12134"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3yzd0ubpc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Inventory.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Inventory.Client.i3yzd0ubpc.pdb.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-i3yzd0ubpc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3yzd0ubpc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Inventory.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk="
         }
       ]
     },
@@ -12230,11 +12230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo=\""
+          "Value": "\"XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:43 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12244,18 +12244,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo="
+          "Value": "sha256-XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA="
         }
       ]
     },
     {
       "Route": "_framework/Inventory.Client.pdb",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-2fig4k0h4p.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-i3yzd0ubpc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082413054"
+          "Quality": "0.000082406263"
         }
       ],
       "ResponseHeaders": [
@@ -12265,15 +12265,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12133"
+          "Value": "12134"
         },
         {
           "Name": "ETag",
-          "Value": "\"kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo=\""
+          "Value": "\"cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12293,19 +12293,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo=\""
+          "Value": "W/\"XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wqrumHaqNYfObLJga8IloPW+bZ2fFO1+HDvo3lvBwVo="
+          "Value": "sha256-XmSAnyCarmlWZ0MXdPdEEBQwzHA55v2tOdjE8I4gEtA="
         }
       ]
     },
     {
       "Route": "_framework/Inventory.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-2fig4k0h4p.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\damkf6wasa-i3yzd0ubpc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12314,7 +12314,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12133"
+          "Value": "12134"
         },
         {
           "Name": "Content-Type",
@@ -12322,11 +12322,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo=\""
+          "Value": "\"cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12344,7 +12344,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kVVDIL4LTysL3sc6YwHxEFp+DsiNX6W23CUNZV2IPUo="
+          "Value": "sha256-cljICEEpdDHza9DIN4pjpX+wFk3QZdNSFrU3MHjNFZk="
         }
       ]
     },
@@ -12367,11 +12367,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA=\""
+          "Value": "\"9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:43 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12381,18 +12381,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA="
+          "Value": "sha256-9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk="
         }
       ]
     },
     {
       "Route": "_framework/Inventory.Client.wasm",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-2v2smjopqb.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-gfqdgrtdno.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000208203206"
+          "Quality": "0.000208116545"
         }
       ],
       "ResponseHeaders": [
@@ -12402,15 +12402,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4804"
         },
         {
           "Name": "ETag",
-          "Value": "\"1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A=\""
+          "Value": "\"3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12430,19 +12430,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA=\""
+          "Value": "W/\"9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fr+lXIJ+2voqUkSIAZiWPaVDh3dF4UIysfrOACob0dA="
+          "Value": "sha256-9MxnZxWPfiWQjTHXDtLFJWEZ5vSRZTuM9XIaVsMMBJk="
         }
       ]
     },
     {
       "Route": "_framework/Inventory.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-2v2smjopqb.gz",
+      "AssetFile": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\obj\\Debug\\net9.0\\compressed\\n7hnkp5flx-gfqdgrtdno.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12451,7 +12451,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4804"
         },
         {
           "Name": "Content-Type",
@@ -12459,11 +12459,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A=\""
+          "Value": "\"3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 02:30:44 GMT"
+          "Value": "Mon, 27 Jan 2025 15:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12481,7 +12481,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1cDgw9VEHtW8oAdPUcVfNHaNO95iseWwIoUBmG6lG+A="
+          "Value": "sha256-3eYFQ+q4FsIT1Z60SGHcrR27LoMFwnhLCpHfap7MPwE="
         }
       ]
     },
