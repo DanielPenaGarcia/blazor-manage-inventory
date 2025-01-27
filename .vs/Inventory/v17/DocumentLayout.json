@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\dapgp\\onedrive\\documentos\\blazor-manage-inventory\\inventory\\components\\account\\pages\\registeradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\account\\pages\\registeradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\account\\pages\\registeradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\dapgp\\onedrive\\documentos\\blazor-manage-inventory\\inventory\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Inventory\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T02:41:15.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Register.razor",
-              "DocumentMoniker": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "Inventory\\Components\\Account\\Pages\\Register.razor",
-              "ToolTip": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
               "RelativeToolTip": "Inventory\\Components\\Account\\Pages\\Register.razor",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T20:26:02.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegisterAdmin.razor",
-              "DocumentMoniker": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
               "RelativeDocumentMoniker": "Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "ToolTip": "C:\\Users\\Dapgp\\OneDrive\\Documentos\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
               "RelativeToolTip": "Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T20:25:54.618Z",
               "EditorCaption": ""

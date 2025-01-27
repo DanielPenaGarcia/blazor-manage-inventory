@@ -1,4 +1,4 @@
-C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\wwwroot\appsettings.json
-C:\Users\Dapgp\OneDrive\Documentos\blazor-manage-inventory\Inventory.Client\wwwroot\appsettings.Development.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\wwwroot\appsettings.json
+C:\Users\Daniel-Personal\Documents\blazor-manage-inventory\Inventory.Client\wwwroot\appsettings.Development.json
 wwwroot\appsettings.Development.json
 wwwroot\appsettings.json
