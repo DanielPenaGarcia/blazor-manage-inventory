@@ -3,64 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\store\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\store\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|solutionrelative:inventory.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|solutionrelative:inventory.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|solutionrelative:inventory.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\account\\pages\\registeradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\account\\pages\\registeradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Migrations\\20250127155424_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventory\\Migrations\\20250127155424_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\codeadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\codeadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\store\\shared\\createproductmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\store\\shared\\createproductmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\store\\shared\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\store\\shared\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54075D7B-07A3-4D93-B959-EA7C94B3EB29}|Inventory.Client\\Inventory.Client.csproj|solutionrelative:inventory.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|c:\\users\\daniel-personal\\documents\\blazor-manage-inventory\\inventory\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE63FB63-2D2D-4F1B-80C2-99730BFB0D43}|Inventory\\Inventory.csproj|solutionrelative:inventory\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,73 +57,25 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\Program.cs",
-              "RelativeDocumentMoniker": "Inventory.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\Program.cs",
-              "RelativeToolTip": "Inventory.Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:13:25.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RedirectToLogin.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\RedirectToLogin.razor",
-              "RelativeDocumentMoniker": "Inventory.Client\\RedirectToLogin.razor",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\RedirectToLogin.razor",
-              "RelativeToolTip": "Inventory.Client\\RedirectToLogin.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T16:13:25.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250127155424_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Migrations\\20250127155424_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Inventory\\Migrations\\20250127155424_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Migrations\\20250127155424_InitialCreate.cs",
-              "RelativeToolTip": "Inventory\\Migrations\\20250127155424_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:54:24.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\appsettings.json",
-              "RelativeDocumentMoniker": "Inventory\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\appsettings.json",
-              "RelativeToolTip": "Inventory\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T15:38:39.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Auth.razor",
               "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\Pages\\Auth.razor",
               "RelativeDocumentMoniker": "Inventory.Client\\Pages\\Auth.razor",
               "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\Pages\\Auth.razor",
               "RelativeToolTip": "Inventory.Client\\Pages\\Auth.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T15:35:22.1Z",
+              "WhenOpened": "2025-01-27T20:12:49.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "AccessDenied.razor",
               "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\AccessDenied.razor",
               "RelativeDocumentMoniker": "Inventory\\Components\\Account\\Pages\\AccessDenied.razor",
@@ -147,124 +83,124 @@
               "RelativeToolTip": "Inventory\\Components\\Account\\Pages\\AccessDenied.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T15:34:31.667Z",
+              "WhenOpened": "2025-01-27T20:12:43.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "Inventory\\Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:29:06.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Product.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\Product.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Product.cs",
-              "RelativeToolTip": "Inventory\\Data\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:28:43.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CodeAdminRegister.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\CodeAdminRegister.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\CodeAdminRegister.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\CodeAdminRegister.cs",
-              "RelativeToolTip": "Inventory\\Data\\CodeAdminRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:26:30.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Inventory\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Inventory\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwEUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T02:41:15.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterAdmin.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "RelativeDocumentMoniker": "Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "RelativeToolTip": "Inventory\\Components\\Account\\Pages\\RegisterAdmin.razor",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T20:25:54.618Z",
+              "WhenOpened": "2025-01-27T20:08:48.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.razor",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
-              "RelativeDocumentMoniker": "Inventory\\Components\\Account\\Pages\\Register.razor",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Account\\Pages\\Register.razor",
-              "RelativeToolTip": "Inventory\\Components\\Account\\Pages\\Register.razor",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Title": "ProductCard.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Shared\\ProductCard.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\Store\\Shared\\ProductCard.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Shared\\ProductCard.razor",
+              "RelativeToolTip": "Inventory\\Components\\Store\\Shared\\ProductCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T20:26:02.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Store.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\Store.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Store.cs",
-              "RelativeToolTip": "Inventory\\Data\\Store.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:46:08.375Z",
+              "WhenOpened": "2025-01-27T19:57:55.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Inventory.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\Inventory.cs",
-              "RelativeToolTip": "Inventory\\Data\\Inventory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:46:22.705Z",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Inventory.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory.Client\\_Imports.razor",
+              "RelativeToolTip": "Inventory.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:51:10.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Inventory\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Inventory\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\App.razor",
+              "RelativeToolTip": "Inventory\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:47:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\_Imports.razor",
+              "RelativeToolTip": "Inventory\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:47:07.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Routes.razor",
+              "RelativeToolTip": "Inventory\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:37:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Program.cs",
+              "RelativeToolTip": "Inventory\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:50:17.898Z",
+              "WhenOpened": "2025-01-27T18:37:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\Store\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Pages\\Products.razor",
+              "RelativeToolTip": "Inventory\\Components\\Store\\Pages\\Products.razor",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:33:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductModal.razor",
+              "DocumentMoniker": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Shared\\CreateProductModal.razor",
+              "RelativeDocumentMoniker": "Inventory\\Components\\Store\\Shared\\CreateProductModal.razor",
+              "ToolTip": "C:\\Users\\Daniel-Personal\\Documents\\blazor-manage-inventory\\Inventory\\Components\\Store\\Shared\\CreateProductModal.razor",
+              "RelativeToolTip": "Inventory\\Components\\Store\\Shared\\CreateProductModal.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T18:32:08.357Z",
               "EditorCaption": ""
             }
           ]

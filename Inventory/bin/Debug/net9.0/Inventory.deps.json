@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "Inventory/1.0.0": {
         "dependencies": {
+          "Blazor.Bootstrap": "3.2.0",
+          "Blazored.Modal": "7.3.1",
           "Inventory.Client": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.1",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.1",
@@ -51,6 +53,32 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.11.4.0",
             "fileVersion": "1.1100.424.31005"
+          }
+        }
+      },
+      "Blazor.Bootstrap/3.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "9.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.1"
+        },
+        "runtime": {
+          "lib/net9.0/BlazorBootstrap.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "Blazored.Modal/7.3.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "9.0.1",
+          "Microsoft.AspNetCore.Components.Web": "9.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "Microsoft.JSInterop.WebAssembly": "9.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/Blazored.Modal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -1140,6 +1168,20 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "Blazor.Bootstrap/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tpSu6SKaCaibBWUEJJ8Jg7tmNGOrnGTUrj3uwQI28wDvZIKXP/dC554P/iaW12wCYCgI9P6A6+dpZRYPQb1xvg==",
+      "path": "blazor.bootstrap/3.2.0",
+      "hashPath": "blazor.bootstrap.3.2.0.nupkg.sha512"
+    },
+    "Blazored.Modal/7.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CWUyENSAZmNr0efiS3V5oMBkhRLkqqo1qOaY5pIqymQIR0fgGY6CDB4+57HAJP0pdks95yALrBZ6twggMaIeCg==",
+      "path": "blazored.modal/7.3.1",
+      "hashPath": "blazored.modal.7.3.1.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",

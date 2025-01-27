@@ -1,0 +1,84 @@
+﻿@page "/products"
+
+@rendermode InteractiveServer
+
+@attribute [Authorize]
+
+@using Microsoft.AspNetCore.Authorization
+@using Inventory.Components.Store.Shared
+@using Inventory.Data
+@using Blazored.Modal.Services
+@using Inventory.Interfaces
+@using Inventory.Utils
+
+@inject IProductService ProductService
+@inject IModalService ModalService
+
+<h3 class="mb-4 text-center">Products</h3>
+
+<Modal @ref="Modal"></Modal>
+
+<!-- Verifica si hay productos y muestra un mensaje si no hay productos -->
+@if (ProductsList.Count == 0)
+{
+    <div class="alert alert-warning text-center" role="alert">
+        No products available.
+    </div>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (Product product in ProductsList)
+        {
+            <div class="col">
+                <ProductCard Product="product" />
+            </div>
+        }
+    </div>
+}
+
+<AuthorizeView Roles="@Role.ADMIN">
+    <div class="d-flex justify-content-center mt-4">
+        <button class="btn btn-primary" @onclick="openModal">
+            <i class="bi bi-plus-circle"></i> Create Product
+        </button>
+    </div>
+</AuthorizeView>
+
+@code {
+    public Modal Modal;
+    public List<Product> ProductsList { get; set; } = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadProductsList();
+    }
+
+    public void openModal()
+    {
+        var parameters = new Dictionary<string, object>();
+        parameters.Add("onCallback", EventCallback.Factory.Create<Product>(this, onProductCreated));
+        Modal.ShowAsync<CreateProductModal>("Create Product", parameters: parameters);
+    }
+
+    private void onProductCreated(Product p)
+    {
+        Modal.HideAsync();
+        LoadProductsList(); // Recargar la lista después de crear un nuevo producto
+    }
+
+    private async Task LoadProductsList()
+    {
+        // Asegúrate de que el servicio ProductService devuelve una lista de productos
+        this.ProductsList = await ProductService.GetAllProducts();
+
+        // Si ProductsList sigue siendo nula o vacía, podrías loggear o depurar aquí
+        if (ProductsList == null || ProductsList.Count == 0)
+        {
+            Console.WriteLine("No products found.");
+        }
+
+        // Forzar la actualización del estado
+        StateHasChanged();
+    }
+}

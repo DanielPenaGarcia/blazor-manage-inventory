@@ -1,0 +1,22 @@
+﻿@using Inventory.Data
+
+<div class="card" style="width: 18rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <!-- Imagen de Producto (si es necesario, sino se puede quitar) -->
+    <div class="card-header text-center" style="font-weight: bold; background-color: #f8f9fa;">
+        <h5 class="card-title text-truncate" style="font-size: 1.25rem; margin-bottom: 0;">@Product?.Name</h5>
+    </div>
+
+    <div class="card-body">
+        <p class="card-text text-muted" style="font-size: 1rem; color: #6c757d;">Price: $@Product?.Price</p>
+
+        <!-- Acciones de la tarjeta -->
+        <div class="d-flex justify-content-center">
+            <button class="btn btn-outline-primary btn-sm">Add to Cart</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Product? Product { get; set; }
+}

@@ -1,0 +1,62 @@
+﻿@using System.ComponentModel.DataAnnotations
+@using Inventory.Interfaces
+@using Inventory.Data
+
+@rendermode InteractiveServer
+
+@inject IProductService ProductService
+
+<div>
+    <h1>Create Product</h1>
+    <EditForm Model="Input" OnValidSubmit="OnCreateProduct" FormName="create-product">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <Label for="Name" class="form-label">Name</Label>
+            <InputText id="Name" @bind-Value="Input.Name" class="form-control" />
+            <ValidationMessage For="() => Input.Name" />
+        </div>
+
+        <div class="mb-3">
+            <Label for="Price" class="form-label">Price</Label>
+            <InputNumber id="Price" @bind-Value="Input.Price" class="form-control" />
+            <ValidationMessage For="() => Input.Price" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Create Product</button>
+    </EditForm>
+</div>
+
+@code {
+    private ProductModel Input { get; set; } = new ProductModel();
+
+    [Parameter] public EventCallback<Product> onCallback { get; set; }
+
+    private async Task OnCreateProduct()
+    {
+        // Crear un nuevo producto con los datos del modelo
+        Product product = new Product
+        {
+            Name = Input.Name,
+            Price = Input.Price
+        };
+
+        // Llamar al servicio para guardar el producto
+        await ProductService.SaveProduct(product);
+        await onCallback.InvokeAsync(product);
+
+        // Aquí podrías redirigir a otra página o mostrar un mensaje de éxito
+    }
+
+    public sealed class ProductModel
+    {
+        [Required(ErrorMessage = "Name is required.")]
+        public string Name { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Price is required.")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "Price must be greater than zero.")]
+        [Display(Name = "Price")]
+        public decimal Price { get; set; } = 0;
+    }
+}
